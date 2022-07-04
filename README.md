@@ -120,8 +120,8 @@ better results for a specific set of data. Hyperparameter tuning addition is one
 
 |                                                     Clean Data                                                      |                                                   Anomalous Data                                                   |
 | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Clean Data](https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoiseClean.png) | ![Anomalous Data](https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoise.png) |
-| ![Clean Data](https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoiseClean.png) | ![Anomalous Data](https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoise.png) |
+| <img src ="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoiseClean.png" width="480" height= "360"> | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoise.png" width="480" height= "360" > |
+| <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoiseClean.png" width="480" height= "360"> | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoiseClean.png" width="480" height= "360" > |
 
 ## References
 
