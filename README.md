@@ -118,10 +118,12 @@ better results for a specific set of data. Hyperparameter tuning addition is one
 
 ### Examples:
 
-|                                                     Clean Data                                                      |                                                   Anomalous Data                                                   |
-| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| <img src ="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoiseClean.png" width="600" height= "360"> | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoise.png" width="600" height= "360"> |
-| <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoiseClean.png" width="600" height= "360"> | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoise.png" width="600" height= "360" > |
+|                                   Clean Data                                    |                                 Anomalous Data                                 |
+| :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+|                                                                                 |                                 Point Based Anomaly |
+| <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoiseClean.png" width="600" height= "360"> | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/1randomNoise.png" width="600" height= "360" > |
+|                                                                                 |                             Wave Based Anomaly                                        | 
+| <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoiseCleanW.png" width="600" height= "360" > | <img src="https://github.com/DakikSoftwareTechnologies/AnomalyGenerator/blob/main/images/0randomNoiseW.png" width="600" height= "360" > |
 
 ## References
 
